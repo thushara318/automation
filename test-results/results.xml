@@ -1,14 +1,14 @@
-<testsuites id="" name="" tests="4" failures="0" skipped="2" errors="0" time="8.988435">
-<testsuite name="pdp.spec.ts" timestamp="2025-08-11T13:43:17.046Z" hostname="Chromium" tests="1" failures="0" skipped="0" time="2.843" errors="0">
-<testcase name="User Journey &amp; PDP Validation" classname="pdp.spec.ts" time="2.843">
+<testsuites id="" name="" tests="4" failures="0" skipped="2" errors="0" time="10.335284000000001">
+<testsuite name="pdp.spec.ts" timestamp="2025-08-11T17:10:52.110Z" hostname="Chromium" tests="1" failures="0" skipped="0" time="3.646" errors="0">
+<testcase name="User Journey &amp; PDP Validation" classname="pdp.spec.ts" time="3.646">
 </testcase>
 </testsuite>
-<testsuite name="pdp.spec.ts" timestamp="2025-08-11T13:43:17.046Z" hostname="Firefox" tests="1" failures="0" skipped="0" time="2.938" errors="0">
-<testcase name="User Journey &amp; PDP Validation" classname="pdp.spec.ts" time="2.938">
+<testsuite name="pdp.spec.ts" timestamp="2025-08-11T17:10:52.110Z" hostname="Firefox" tests="1" failures="0" skipped="0" time="3.139" errors="0">
+<testcase name="User Journey &amp; PDP Validation" classname="pdp.spec.ts" time="3.139">
 </testcase>
 </testsuite>
-<testsuite name="pdp.spec.ts" timestamp="2025-08-11T13:43:17.046Z" hostname="WebKit" tests="1" failures="0" skipped="1" time="0.415" errors="0">
-<testcase name="User Journey &amp; PDP Validation" classname="pdp.spec.ts" time="0.415">
+<testsuite name="pdp.spec.ts" timestamp="2025-08-11T17:10:52.110Z" hostname="WebKit" tests="1" failures="0" skipped="1" time="0.507" errors="0">
+<testcase name="User Journey &amp; PDP Validation" classname="pdp.spec.ts" time="0.507">
 <properties>
 <property name="skip" value="WebKit not supported on this system">
 </property>
@@ -17,8 +17,8 @@
 </skipped>
 </testcase>
 </testsuite>
-<testsuite name="pdp.spec.ts" timestamp="2025-08-11T13:43:17.046Z" hostname="Mobile" tests="1" failures="0" skipped="1" time="0.405" errors="0">
-<testcase name="User Journey &amp; PDP Validation" classname="pdp.spec.ts" time="0.405">
+<testsuite name="pdp.spec.ts" timestamp="2025-08-11T17:10:52.110Z" hostname="Mobile" tests="1" failures="0" skipped="1" time="0.422" errors="0">
+<testcase name="User Journey &amp; PDP Validation" classname="pdp.spec.ts" time="0.422">
 <properties>
 <property name="skip" value="WebKit not supported on this system">
 </property>
