@@ -1,0 +1,26 @@
+{
+  "credentials": {
+    "valid": {
+      "username": "standard_user",
+      "password": "secret_sauce"
+    },
+    "invalid": {
+      "username": "invalid_user",
+      "password": "invalid_password"
+    }
+  },
+  "urls": {
+    "base": "https://www.saucedemo.com/",
+    "inventory": "https://www.saucedemo.com/inventory.html"
+  },
+  "testData": {
+    "products": [
+      "Sauce Labs Backpack",
+      "Sauce Labs Bike Light",
+      "Sauce Labs Bolt T-Shirt",
+      "Sauce Labs Fleece Jacket",
+      "Sauce Labs Onesie",
+      "Test.allTheThings() T-Shirt (Red)"
+    ]
+  }
+}

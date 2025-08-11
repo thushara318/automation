@@ -1,0 +1,30 @@
+<testsuites id="" name="" tests="4" failures="0" skipped="2" errors="0" time="8.988435">
+<testsuite name="pdp.spec.ts" timestamp="2025-08-11T13:43:17.046Z" hostname="Chromium" tests="1" failures="0" skipped="0" time="2.843" errors="0">
+<testcase name="User Journey &amp; PDP Validation" classname="pdp.spec.ts" time="2.843">
+</testcase>
+</testsuite>
+<testsuite name="pdp.spec.ts" timestamp="2025-08-11T13:43:17.046Z" hostname="Firefox" tests="1" failures="0" skipped="0" time="2.938" errors="0">
+<testcase name="User Journey &amp; PDP Validation" classname="pdp.spec.ts" time="2.938">
+</testcase>
+</testsuite>
+<testsuite name="pdp.spec.ts" timestamp="2025-08-11T13:43:17.046Z" hostname="WebKit" tests="1" failures="0" skipped="1" time="0.415" errors="0">
+<testcase name="User Journey &amp; PDP Validation" classname="pdp.spec.ts" time="0.415">
+<properties>
+<property name="skip" value="WebKit not supported on this system">
+</property>
+</properties>
+<skipped>
+</skipped>
+</testcase>
+</testsuite>
+<testsuite name="pdp.spec.ts" timestamp="2025-08-11T13:43:17.046Z" hostname="Mobile" tests="1" failures="0" skipped="1" time="0.405" errors="0">
+<testcase name="User Journey &amp; PDP Validation" classname="pdp.spec.ts" time="0.405">
+<properties>
+<property name="skip" value="WebKit not supported on this system">
+</property>
+</properties>
+<skipped>
+</skipped>
+</testcase>
+</testsuite>
+</testsuites>

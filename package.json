@@ -1,0 +1,27 @@
+{
+  "name": "playwright-assignment",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "playwright test",
+    "test:headed": "playwright test --headed",
+    "test:chromium": "playwright test --project=Chromium",
+    "test:firefox": "playwright test --project=Firefox",
+    "test:webkit": "playwright test --project=WebKit",
+    "test:mobile": "playwright test --project=Mobile",
+    "test:all-browsers": "playwright test --project=Chromium --project=Firefox --project=WebKit",
+    "test:report": "playwright show-report",
+    "install:browsers": "playwright install"
+  },
+  "keywords": ["playwright", "testing", "automation"],
+  "author": "",
+  "license": "ISC",
+  "description": "Playwright automation test suite for Sauce Demo user journey validation",
+  "devDependencies": {
+    "@playwright/test": "^1.54.2",
+    "@types/node": "^24.2.1"
+  },
+  "dependencies": {
+    "dotenv": "^17.2.1"
+  }
+}
